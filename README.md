@@ -2,16 +2,6 @@
   <h1>Hi 👋, I'm BELBACHIR Mohamed Zine Elabidine</h1>
   <h3>Software & Data Engineer | Full-Stack Web Dev • SQL & Databases • ETL & BI Solutions</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=zinouu01&theme=transparent&no-frame=true&no-bg=true&margin-w=15&column=7"
-      alt="GitHub Trophies"
-    />
-  </a>
-</p>
-
-
   <p>
     <img src="https://komarev.com/ghpvc/?username=zinouu01&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   </p>
