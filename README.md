@@ -1,10 +1,10 @@
 <div align="center">
-  <h1>Hi 👋, I'm BELBACHIR Mohamed Zine Elabidine</h1>
+  <h1>Hi 👋, I'm Ammar</h1>
   <h3>Software & Data Engineer | Full-Stack Web Dev • SQL & Databases • ETL & BI Solutions</h3>
 
   <p>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=zinouu01&theme=transparent&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+      <img src="https://github-profile-trophy.vercel.app/?username=zinouu01&theme=transparent&margin-w=15" alt="Trophies" />
     </a>
   </p>
 
@@ -106,5 +106,5 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zinouu01&theme=transparent&hide_border=true&stroke=0e75b6&ring=0e75b6&fire=0e75b6" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=zinouu01&theme=transparent&hide_border=true&stroke=0e75b6&ring=0e75b6&fire=0e75b6" alt="GitHub Streak" />
 </div>
