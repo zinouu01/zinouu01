@@ -2,9 +2,13 @@
   <h1>Hi 👋, I'm Ammar</h1>
   <h3>Software & Data Engineer | Full-Stack Web Dev • SQL & Databases • ETL & BI Solutions</h3>
 
-  [![Trophies](https://github-profile-trophy.vercel.app/?username=zinouu01&margin-w=15&cache_seconds=86400)](https://github.com/ryo-ma/github-profile-trophy)
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=zinouu01&margin-w=15&cache_seconds=86400" alt="Trophies" />
+  </a>
 
-  [![Profile Views](https://komarev.com/ghpvc/?username=zinouu01&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/zinouu01)
+  <a href="https://github.com/zinouu01">
+    <img src="https://komarev.com/ghpvc/?username=zinouu01&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  </a>
 
   <p>
     <!-- Social Badges keep HTML to stay on the same line -->
@@ -97,11 +101,11 @@
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zinouu01&show_icons=true&hide_border=true&cache_seconds=86400)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zinouu01&layout=compact&show_icons=true&hide_border=true&cache_seconds=86400)
+  <img src="https://github-readme-stats.vercel.app/api?username=zinouu01&show_icons=true&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinouu01&layout=compact&show_icons=true&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 
   <br>
 
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=zinouu01&hide_border=true&cache_seconds=86400)
+  <img src="https://streak-stats.demolab.com/?user=zinouu01&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
 
 </div>
