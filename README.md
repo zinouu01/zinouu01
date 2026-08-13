@@ -4,7 +4,7 @@
 
   <p>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=zinouu01&theme=transparent&margin-w=15" alt="Trophies" />
+     <img src="https://github-profile-trophy.vercel.app/?username=zinouu01&theme=flat&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
     </a>
   </p>
 
@@ -101,10 +101,18 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zinouu01&show_icons=true&locale=en&theme=transparent&hide_border=true&title_color=0e75b6&text_color=777777" alt="GitHub Stats" height="195"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zinouu01&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6&text_color=777777" alt="Top Languages" height="195"/>
+
+<a href="https://github.com/zinouu01">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=zinouu01&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&cache_seconds=86400" alt="GitHub Stats" />
+</a>
+
+<a href="https://github.com/zinouu01">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinouu01&layout=compact&langs_count=8&theme=transparent&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+</a>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=zinouu01&theme=transparent&hide_border=true" alt="GitHub Streak" />
+
 </div>
-<br>
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=zinouu01&theme=transparent&hide_border=true&stroke=0e75b6&ring=0e75b6&fire=0e75b6" alt="GitHub Streak" />
-</div>
+
