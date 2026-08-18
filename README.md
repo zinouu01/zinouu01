@@ -30,7 +30,7 @@
 - 🌱 **Currently learning:** Big Data processing (Apache Spark), Dimensional Modeling, & Microservices Architecture
 - 👯 **Looking to collaborate on:** Open-source Full-Stack web apps, HealthTech platforms, or Data & AI integrations
 - 🤝 **Looking for help with:** Advanced microservices design, cloud deployment strategies, and CI/CD pipelines
-- 👨‍💻 **Portfolio:** Check out my projects at [Portfolio.com](https://Portfolio.com)
+- 👨‍💻 **Portfolio:** Check out my projects at [Portfolio.com](https://portfolio-eight-theta-73.vercel.app/)
 - 📝 **Writing:** *Tech insights on web performance, database architectures, and AI integration (Coming soon!)*
 - 💬 **Ask me about:** AI, Next.js, Vue 3, React, Node.js, FastAPI, PostgreSQL, Oracle, PL/SQL, ETL pipelines, & BI Dashboards
 - ⚡ **Fun fact:** I bridge the gap between complex data/analytical pipelines and slick, interactive web UIs!
