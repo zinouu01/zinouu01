@@ -100,5 +100,4 @@
 </div>
 <br>
 <div align="center">
-    <img src="https://github-readme-stats-m2.vercel.app/api/streak?username=zinouu01&theme=transparent&hide_border=true" alt="GitHub Streak"/>
-</div>
+<img src="https://streak-stats.demolab.com/?user=zinouu01&theme=transparent&hide_border=true&stroke=0e75b6&ring=0e75b6&fire=0e75b6" alt="GitHub Streak" /></div>
